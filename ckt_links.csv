@@ -1,0 +1,200 @@
+Kedar Jadhav,Bat_IND,player
+Mayank Agarwal,Bat_IND,player
+Rohit Sharma,Bat_IND,player
+Shikhar Dhawan,Bat_IND,player
+Virat Kohli,Bat_IND,player
+Hardik Pandya,All_IND,player
+Ravindra Jadeja,All_IND,player
+Dinesh Karthik,Wc_IND,player
+KL Rahul,Wc_IND,player
+MS Dhoni,Wc_IND,player
+Rishabh Pant,Wc_IND,player
+Bhuvneshwar Kumar,Bow_IND,player
+Jasprit Bumrah,Bow_IND,player
+Kuldeep Yadav,Bow_IND,player
+Mohammed Shami,Bow_IND,player
+Yuzvendra Chahal,Bow_IND,player
+Aaron Finch,Bat_AUS,player
+David Warner,Bat_AUS,player
+Shaun Marsh,Bat_AUS,player
+Steve Smith,Bat_AUS,player
+Glenn Maxwell,All_AUS,player
+Marcus Stoinis,All_AUS,player
+Alex Carey,Wc_AUS,player
+Matthew Wade,Wc_AUS,player
+Peter Handscomb,Wc_AUS,player
+Adam Zampa,Bow_AUS,player
+Jason Behrendorff,Bow_AUS,player
+Kane Richardson,Bow_AUS,player
+Mitchell Starc,Bow_AUS,player
+Nathan Coulter-Nile,Bow_AUS,player
+Nathan Lyon,Bow_AUS,player
+Pat Cummins,Bow_AUS,player
+Eoin Morgan,Bat_ENG,player
+James Vince,Bat_ENG,player
+Jason Roy,Bat_ENG,player
+Joe Root,Bat_ENG,player
+Ben Stokes,All_ENG,player
+Liam Dawson,All_ENG,player
+Moeen Ali,All_ENG,player
+Tom Curran,All_ENG,player
+Jonny Bairstow,Wc_ENG,player
+Jos Buttler,Wc_ENG,player
+Adil Rashid,Bow_ENG,player
+Chris Woakes,Bow_ENG,player
+Jofra Archer,Bow_ENG,player
+Liam Plunkett,Bow_ENG,player
+Mark Wood,Bow_ENG,player
+Henry Nicholls,Bat_NZ,player
+Kane Williamson,Bat_NZ,player
+Martin Guptill,Bat_NZ,player
+Ross Taylor,Bat_NZ,player
+Colin de Grandhomme,All_NZ,player
+Colin Munro,All_NZ,player
+Jimmy Neesham,All_NZ,player
+Mitchell Santner,All_NZ,player
+Tom Blundell,Wc_NZ,player
+Tom Latham,Wc_NZ,player
+Ish Sodhi,Bow_NZ,player
+Lockie Ferguson,Bow_NZ,player
+Matt Henry,Bow_NZ,player
+Tim Southee,Bow_NZ,player
+Trent Boult,Bow_NZ,player
+Asif Ali,Bat_Pak,player
+Babar Azam,Bat_Pak,player
+Fakhar Zaman,Bat_Pak,player
+Haris Sohail,Bat_Pak,player
+Imam-ul-Haq,Bat_Pak,player
+Imad Wasim,All_Pak,player
+Mohammad Hafeez,All_Pak,player
+Shadab Khan,All_Pak,player
+Shoaib Malik,All_Pak,player
+Sarfaraz Ahmed,Wc_Pak,player
+Hassan Ali,Bow_Pak,player
+Mohammad Amir,Bow_Pak,player
+Mohammad Hasnain,Bow_Pak,player
+Shaheen Afridi,Bow_Pak,player
+Wahab Riaz,Bow_Pak,player
+Avishka Fernando,Bat_SL,player
+Dimuth Karunaratne,Bat_SL,player
+Lahiru Thirimanne,Bat_SL,player
+Angelo Mathews,All_SL,player
+Dhananjaya de Silva,All_SL,player
+Isuru Udana,All_SL,player
+Jeevan Mendis,All_SL,player
+Milinda Siriwardana,All_SL,player
+Thisara Perera,All_SL,player
+Kusal Mendis,Wc_SL,player
+Kusal Perera,Wc_SL,player
+Jeffrey Vandersay,Bow_SL,player
+Kasun Rajitha,Bow_SL,player
+Lasith Malinga,Bow_SL,player
+Suranga Lakmal,Bow_SL,player
+Aiden Markram,Bat_SA,player
+David Miller,Bat_SA,player
+Faf du Plessis,Bat_SA,player
+Rassie van der Dussen,Bat_SA,player
+Chris Morris,All_SA,player
+Dwaine Pretorius,All_SA,player
+JP Duminy,All_SA,player
+Quinton de Kock,Wc_SA,player
+Andile Phehlukwayo,Bow_SA,player
+Beuran Hendricks,Bow_SA,player
+Imran Tahir,Bow_SA,player
+Kagiso Rabada,Bow_SA,player
+Lungi Ngidi,Bow_SA,player
+Tabraiz Shamsi,Bow_SA,player
+Mosaddek Hossain,Bat_BAN,player
+Tamim Iqbal,Bat_BAN,player
+Mahmudullah,All_BAN,player
+Mehedi Hasan,All_BAN,player
+Mohammad Saifuddin,All_BAN,player
+Sabbir Rahman,All_BAN,player
+Shakib Al Hasan,All_BAN,player
+Soumya Sarkar,All_BAN,player
+Liton Das,Wc_BAN,player
+Mohammad Mithun,Wc_BAN,player
+Mushfiqur Rahim,Wc_BAN,player
+Abu Jayed,Bow_BAN,player
+Mashrafe Mortaza,Bow_BAN,player
+Mustafizur Rahman,Bow_BAN,player
+Rubel Hossain,Bow_BAN,player
+Darren Bravo,Bat_WI,player
+Evin Lewis,Bat_WI,player
+Shimron Hetmyer,Bat_WI,player
+Sunil Ambris,Bat_WI,player
+Carlos Brathwaite,All_WI,player
+Chris Gayle,All_WI,player
+Fabian Allen,All_WI,player
+Jason Holder,All_WI,player
+Nicholas Pooran,Wc_WI,player
+Shai Hope,Wc_WI,player
+Ashley Nurse,Bow_WI,player
+Kemar Roach,Bow_WI,player
+Oshane Thomas,Bow_WI,player
+Shannon Gabriel,Bow_WI,player
+Sheldon Cottrell,Bow_WI,player
+Asghar Afghan,Bat_AFG,player
+Hashmatullah Shahidi,Bat_AFG,player
+Hazrat Zazai,Bat_AFG,player
+Ikram Ali Khil,Bat_AFG,player
+Najibullah Zadran,Bat_AFG,player
+Noor Ali Zadran,Bat_AFG,player
+Mohammad Nabi,All_AFG,player
+Rahmat Shah,All_AFG,player
+Samiullah Shinwari,All_AFG,player
+Dawlat Zadran,Bow_AFG,player
+Gulbadin Naib,Bow_AFG,player
+Hamid Hassan,Bow_AFG,player
+Mujeeb Ur Rahman,Bow_AFG,player
+Rashid Khan,Bow_AFG,player
+Sayed Shirzad,Bow_AFG,player
+Bat_IND,IND,nationality
+All_IND,IND,nationality
+Wc_IND,IND,nationality
+Bow_IND,IND,nationality
+Bat_AUS,AUS,nationality
+All_AUS,AUS,nationality
+Wc_AUS,AUS,nationality
+Bow_AUS,AUS,nationality
+Bat_ENG,ENG,nationality
+All_ENG,ENG,nationality
+Wc_ENG,ENG,nationality
+Bow_ENG,ENG,nationality
+Bat_NZ,NZ,nationality
+All_NZ,NZ,nationality
+Wc_NZ,NZ,nationality
+Bow_NZ,NZ,nationality
+Bat_Pak,Pak,nationality
+All_Pak,Pak,nationality
+Wc_Pak,Pak,nationality
+Bow_Pak,Pak,nationality
+Bat_SL,SL,nationality
+All_SL,SL,nationality
+Wc_SL,SL,nationality
+Bow_SL,SL,nationality
+Bat_SA,SA,nationality
+All_SA,SA,nationality
+Wc_SA,SA,nationality
+Bow_SA,SA,nationality
+Bat_BAN,BAN,nationality
+All_BAN,BAN,nationality
+Wc_BAN,BAN,nationality
+Bow_BAN,BAN,nationality
+Bat_WI,WI,nationality
+All_WI,WI,nationality
+Wc_WI,WI,nationality
+Bow_WI,WI,nationality
+Bat_AFG,AFG,nationality
+All_AFG,AFG,nationality
+Bow_AFG,AFG,nationality
+IND,WC,country
+AUS,WC,country
+ENG,WC,country
+NZ,WC,country
+Pak,WC,country
+SL,WC,country
+SA,WC,country
+BAN,WC,country
+WI,WC,country
+AFG,WC,country
